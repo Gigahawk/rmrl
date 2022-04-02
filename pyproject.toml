@@ -17,6 +17,7 @@ xdg = "^5.0.1"
 [tool.poetry.dev-dependencies]
 ipython = "^7.19.0"
 jedi = "0.17.2"
+poetry2setup = "^1.0.0"
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]
