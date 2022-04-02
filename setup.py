@@ -12,7 +12,7 @@ package_data = \
 
 install_requires = \
 ['pdfrw>=0.4,<0.5',
- 'reportlab @ git+https://github.com/Gigahawk/reportlab.git@5413bbf',
+ 'reportlab @ git+https://github.com/Gigahawk/reportlab.git@eed5bc8',
  'svglib>=1.0.1,<2.0.0',
  'xdg>=5.0.1,<6.0.0']
 

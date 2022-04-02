@@ -10,7 +10,7 @@ readme = "README.md"
 [tool.poetry.dependencies]
 python = "^3.7"
 pdfrw = "^0.4"
-reportlab = { git = "https://github.com/Gigahawk/reportlab.git", rev = "5413bbf" }
+reportlab = { git = "https://github.com/Gigahawk/reportlab.git", rev = "eed5bc8" }
 svglib = "^1.0.1"
 xdg = "^5.0.1"
 
